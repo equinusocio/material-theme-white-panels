@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Material Theme</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFFFF</string>
+				<key>caret</key>
+				<string>#B0BEC5</string>
+				<key>foreground</key>
+				<string>#607D8B</string>
+				<key>invisibles</key>
+				<string>#607D8B</string>
+				<key>lineHighlight</key>
+				<string>#00000012</string>
+				<key>selection</key>
+				<string>#546E7A</string>
+				<key>selectionBorder</key>
+				<string>#546E7A</string>
+				<key>selectionForeground</key>
+				<string>#FFFFFF</string>
+				<key>inactiveSelection</key>
+				<string>#607D8B</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
