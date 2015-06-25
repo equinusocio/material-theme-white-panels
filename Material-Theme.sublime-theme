@@ -4,7 +4,7 @@
 
 	{
 		"class": "overlay_control",
-		"layer0.texture": "Material Theme White Panels/assets/default/overlay-bg.png",
+		"layer0.texture": "Material Theme - White Panels/assets/default/overlay-bg.png",
 		"layer0.inner_margin": [24, 4, 24, 33],
      "layer0.opacity": 1.0,
 	},
@@ -13,7 +13,7 @@
 
 	{
 		"class": "text_line_control",
-		"layer0.texture": "Material Theme White Panels/assets/default/input_field_bar.png",
+		"layer0.texture": "Material Theme - White Panels/assets/default/input_field_bar.png",
 		"layer0.opacity": 1.0,
 		"layer0.inner_margin": [20, 5, 20, 5],
 		"tint_index": 1,
@@ -25,7 +25,7 @@
 	{
 		"class": "text_line_control",
 		"parents": [{"class": "overlay_control"}],
-		"layer0.texture": "Material Theme White Panels/assets/default/input_field_border--short.png",
+		"layer0.texture": "Material Theme - White Panels/assets/default/input_field_border--short.png",
 		"layer0.opacity": 1.0,
 		"layer0.inner_margin": [32, 0, 32, 2],
 		"layer0.draw_center": true,
