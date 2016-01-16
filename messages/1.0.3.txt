@@ -11,4 +11,4 @@ https://github.com/equinusocio/material-theme-white-panels
 ******************************************************************************
 
 NEW:
-- Add Material Theme Darker compatibility.
+- Matched text now use accent color.
