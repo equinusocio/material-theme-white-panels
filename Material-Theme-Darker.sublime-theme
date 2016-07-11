@@ -74,6 +74,7 @@
 		"parents": [{"class": "overlay_control"}],
 		"fg": [84, 110, 122, 255],
 		"selected_fg": [255, 255, 255, 255],
+		"selected_match_fg": [33, 33, 33]
 	},
 
 		// Panels sublabels
@@ -112,6 +113,7 @@
 		"class": "auto_complete_label",
 		"fg": [84, 110, 122, 255],
 		"selected_fg": [255, 255, 255, 255],
+		"selected_match_fg": [33, 33, 33]
 	},
 
 	{
