@@ -127,6 +127,24 @@
 		"attributes": ["selected"],
 		"layer0.opacity": 10
 	},
+
+		// Vertical thumb
+
+	{
+    "class": "puck_control",
+    "parents": [{"class": ["overlay_control","popup_control"]}],
+    "layer1.texture": "Material Theme - White Panels/assets/default/thumb_vertical.png"
+  },
+
+
+  	// Scrollbar track
+
+  {
+    "class": "scroll_bar_control",
+    "parents": [{"class": ["overlay_control","popup_control"]}],
+    "layer0.tint": [255, 255, 255],
+    "layer1.texture": "Material Theme - White Panels/assets/default/normal_bar_vertical.png"
+  }
 ]
 
 
