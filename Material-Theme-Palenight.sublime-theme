@@ -128,21 +128,39 @@
 		"layer0.opacity": 10
 	},
 
+  // Vertical thumb
 
-	// Vertical thumb
-
-	{
+    // Overlay panel
+  {
     "class": "puck_control",
-    "parents": [{"class": ["overlay_control","popup_control"]}],
+    "parents": [{"class": "overlay_control"}],
+    "layer1.tint": [255, 255, 255],
+    "layer1.texture": "Material Theme - White Panels/assets/default/thumb_vertical.png"
+  },
+
+    // Autocomplete popup panel
+  {
+    "class": "puck_control",
+    "parents": [{"class": "popup_control"}],
+    "layer1.tint": [255, 255, 255],
     "layer1.texture": "Material Theme - White Panels/assets/default/thumb_vertical.png"
   },
 
 
-  	// Scrollbar track
+  // Scrollbar track
 
+    // Overlay panel
   {
     "class": "scroll_bar_control",
-    "parents": [{"class": ["overlay_control","popup_control"]}],
+    "parents": [{"class": "overlay_control"}],
+    "layer0.tint": [255, 255, 255],
+    "layer1.texture": "Material Theme - White Panels/assets/default/normal_bar_vertical.png"
+  },
+
+    // Autocomplete popup panel
+  {
+    "class": "scroll_bar_control",
+    "parents": [{"class": "popup_control"}],
     "layer0.tint": [255, 255, 255],
     "layer1.texture": "Material Theme - White Panels/assets/default/normal_bar_vertical.png"
   }
